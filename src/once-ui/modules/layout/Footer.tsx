@@ -11,8 +11,8 @@ const Footer: React.FC = () => {
       as="footer"
       position="relative"
       fillWidth
-      paddingX="l"
-      paddingY="l"
+      paddingX="m"
+      paddingY="m"
       horizontal="space-between"
       vertical="center"
       style={{
@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
             style={{ marginLeft: "-0.125rem" }}
             href="https://reyhanadr.com"
           >
-          <Text paddingX="2">Reyhan Adriana Deris /</Text>
+          <Text paddingX="2">Valuble /</Text>
           </SmartLink>
         <Text onBackground="neutral-weak">
           Developed with{" "}

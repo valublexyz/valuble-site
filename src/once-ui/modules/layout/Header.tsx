@@ -63,7 +63,7 @@ const Header: React.FC = () => {
     >
       <Flex fillWidth hide="s" gap="12" vertical="center" horizontal="center">
         <Logo iconSrc="/trademark/logoValuble.svg" wordmark={false} /> 
-        <Text variant="heading-default-s" align="start">Valuble</Text>
+        <Text variant="heading-default-xl" align="start">Valuble</Text>
       </Flex>
       <Flex show="s" gap="4" vertical="center">
         {/* <NavIcon onClick={toggleMenu} /> */}

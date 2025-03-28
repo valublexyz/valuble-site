@@ -40,8 +40,8 @@ const schema = {
 
 // social links
 const social = {
-  linkedin: "https://www.linkedin.com/in/reyhan-adriana-deris/",
-  github: "https://github.com/reyhanadr",
+  linkedin: "https://www.linkedin.com/company/valuble",
+  github: "https://github.com/valublexyz",
 };
 
 export { baseURL, style, meta, og, schema, social };

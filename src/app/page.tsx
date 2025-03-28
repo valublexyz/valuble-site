@@ -39,6 +39,8 @@ export default function Home() {
           radius="xl"
           paddingTop="80"
           position="relative"
+          border="neutral-alpha-weak"
+          borderWidth={2}
         >
           <Background
             mask={{
