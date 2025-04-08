@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
             style={{ marginLeft: "-0.125rem" }}
             href="https://github.com/once-ui-system/nextjs-starter"
           >
-            Once UI (Next.js)
+            Once UI (Next JS)
           </SmartLink>
         </Text>
       </Text>
